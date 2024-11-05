@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\MD Adil Raza\eclipse-workspace\SERVLET\servlet_day2\pom.xml"/>
+			<item value="C:\Users\MD Adil Raza\eclipse-workspace\SERVLET\servlet_jsp_crud\src\main\java\Controller\LoginClass.java"/>
+			<item value="C:\Users\MD Adil Raza\eclipse-workspace\SERVLET\servlet_day7\src\main\java\controller\SaveProduct.java"/>
+			<item value="C:\Users\MD Adil Raza\eclipse-workspace\SERVLET\servlet_day2\src\main\java\servlet_day2\Addition.java"/>
+			<item value="C:\Users\MD Adil Raza\eclipse-workspace\SERVLET\servlet_day6\src\main\webapp\SignUp.html"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.jsp.Servlet_practice"/>
+			<item value="com.jsp.servlet_jsp_crud2"/>
+			<item value="com.jsp.servlet_jsp_crud"/>
+			<item value="com.jsp.servlet_day8_display"/>
+			<item value="com.jsp.servlet_day8"/>
+			<item value="com.jsp.servlet_day7"/>
+			<item value="com.jsp.servlet_day6"/>
+			<item value="com.jsp.servlet_day5"/>
+			<item value="com.jsp.servlet_day4"/>
+			<item value="com.jsp.servlet_day3"/>
+			<item value="com.jsp.servlet_FirstProject"/>
+			<item value="com.jsp.servlet_day1"/>
+			<item value="com.jsp.servlet_day2"/>
+			<item value="com.jsp.Servlet_Day2"/>
+		</list>
+		<list key="groupId">
+			<item value="com.jsp"/>
+		</list>
+		<list key="artifactId">
+			<item value="Servlet_practice"/>
+			<item value="servlet_jsp_crud2"/>
+			<item value="servlet_jsp_crud"/>
+			<item value="servlet_day8_display"/>
+			<item value="servlet_day8"/>
+			<item value="servlet_day7"/>
+			<item value="servlet_day6"/>
+			<item value="servlet_day5"/>
+			<item value="servlet_day4"/>
+			<item value="servlet_day3"/>
+			<item value="servlet_FirstProject"/>
+			<item value="servlet_day1"/>
+			<item value="servlet_day2"/>
+			<item value="Servlet_Day2"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenCheckoutLocationPage">
+		<list key="scmUrl">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

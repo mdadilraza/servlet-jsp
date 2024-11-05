@@ -1,0 +1,8 @@
+127.0.0.1 - - [12/Mar/2024:16:10:38 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Mar/2024:16:10:41 +0530] "GET /servlet_day4/index.jsp HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [12/Mar/2024:16:10:41 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [12/Mar/2024:16:17:03 +0530] "GET /servlet_day4/person.html HTTP/1.1" 200 126
+0:0:0:0:0:0:0:1 - - [12/Mar/2024:16:17:09 +0530] "GET /servlet_day4/person.html HTTP/1.1" 200 649
+127.0.0.1 - - [12/Mar/2024:16:50:42 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Mar/2024:16:50:42 +0530] "GET /servlet_day4/person.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Mar/2024:16:51:21 +0530] "GET /servlet_day4/add?personName=Adil&personAge=23&personAddress=hyd&personPhone=87373883838&personEmail=adil%40gmail.com&personPassword=123r5555 HTTP/1.1" 200 18

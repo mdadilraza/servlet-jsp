@@ -1,0 +1,38 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  <servlet-name>flip</servlet-name>
+  <servlet-class>servlet_day3.FlipKart</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  
+  <servlet-name>flip</servlet-name>
+  <url-pattern>/flipkart</url-pattern>
+  
+  </servlet-mapping>
+  
+  <servlet>
+  <servlet-name>mint</servlet-name>
+  <servlet-class>servlet_day3.MyntraClass</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>mint</servlet-name>
+  <url-pattern>/myntra</url-pattern>
+  
+  </servlet-mapping>
+  
+  <servlet>
+  <servlet-name>amz</servlet-name>
+  <servlet-class>servlet_day3.AmazonClass</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>amz</servlet-name>
+  <url-pattern>/amazon</url-pattern>
+  
+  </servlet-mapping>
+  
+</web-app>
